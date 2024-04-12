@@ -1,0 +1,459 @@
+[
+    {
+        "album_name": "are you OK?",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273989f3efb816bedb17368b8c1",
+        "tracks": [
+            {
+                "track_name": "2006",
+                "track_length": "3:44",
+                "features": []
+            },
+            {
+                "track_name": "Why Can't We Work",
+                "track_length": "2:56",
+                "features": []
+            },
+            {
+                "track_name": "American Dream",
+                "track_length": "3:26",
+                "features": []
+            },
+            {
+                "track_name": "Greedy",
+                "track_length": "3:15",
+                "features": []
+            },
+            {
+                "track_name": "Help Me",
+                "track_length": "4:12",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "Dummy",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273285fc9e1a767260f5322412f",
+        "tracks": [
+            {
+                "track_name": "Dummy",
+                "track_length": "3:09",
+                "features": []
+            },
+            {
+                "track_name": "Small Talk",
+                "track_length": "3:15",
+                "features": []
+            },
+            {
+                "track_name": "Say Something",
+                "track_length": "3:17",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "Daylight",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273462a104874a6b0325e9c4255",
+        "tracks": [
+            {
+                "track_name": "Daylight",
+                "track_length": "3:15",
+                "features": []
+            },
+            {
+                "track_name": "Dummy",
+                "track_length": "3:09",
+                "features": []
+            },
+            {
+                "track_name": "Small Talk",
+                "track_length": "3:15",
+                "features": []
+            },
+            {
+                "track_name": "Say Something",
+                "track_length": "3:17",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "Issues",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273d42bc4f6d96d61cafe060fd5",
+        "tracks": [
+            {
+                "track_name": "Issues (feat. G-Eazy)",
+                "track_length": "3:04",
+                "features": [
+                    "G-Eazy"
+                ]
+            },
+            {
+                "track_name": "Daylight",
+                "track_length": "3:15",
+                "features": []
+            },
+            {
+                "track_name": "Dummy",
+                "track_length": "3:09",
+                "features": []
+            },
+            {
+                "track_name": "Small Talk",
+                "track_length": "3:15",
+                "features": []
+            },
+            {
+                "track_name": "Say Something",
+                "track_length": "3:17",
+                "features": []
+            }
+        ]
+    },
+    {
+        "album_name": "The Red Balloon Project",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b2732f9cfcc3876eaa0696d5d5c2",
+        "tracks": [
+            {
+                "track_name": "Like This",
+                "track_length": "3:16",
+                "features": []
+            },
+            {
+                "track_name": "The City (feat. Phoebe Ryan)",
+                "track_length": "3:49",
+                "features": [
+                    "Phoebe Ryan"
+                ]
+            },
+            {
+                "track_name": "Be Lazy",
+                "track_length": "3:21",
+                "features": []
+            },
+            {
+                "track_name": "Do You There (feat. Marc E. Bassy)",
+                "track_length": "4:47",
+                "features": [
+                    "Marc E. Bassy"
+                ]
+            },
+            {
+                "track_name": "Down (feat. QuESt & Devon Baldwin)",
+                "track_length": "3:52",
+                "features": [
+                    "Quest",
+                    "Devon Baldwin"
+                ]
+            },
+            {
+                "track_name": "Time (feat. G-Eazy & Olivver the Kid)",
+                "track_length": "3:55",
+                "features": [
+                    "Olivver the Kid",
+                    "G-Eazy"
+                ]
+            },
+            {
+                "track_name": "To the Bottom (feat. Charlie Brand)",
+                "track_length": "3:44",
+                "features": [
+                    "Charlie Brand"
+                ]
+            }
+        ]
+    },
+    {
+        "album_name": "Alone Together",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b27326fac89dc32d0135c146222a",
+        "tracks": [
+            {
+                "track_name": "Crash (feat. Pell)",
+                "track_length": "4:33",
+                "features": [
+                    "Pell"
+                ]
+            },
+            {
+                "track_name": "Alcoholics",
+                "track_length": "3:43",
+                "features": []
+            },
+            {
+                "track_name": "Comb",
+                "track_length": "3:50",
+                "features": []
+            },
+            {
+                "track_name": "Recognize (feat. JoJo)",
+                "track_length": "3:09",
+                "features": [
+                    "JoJo"
+                ]
+            },
+            {
+                "track_name": "Burn Bridges (feat. Chose)",
+                "track_length": "2:59",
+                "features": [
+                    "Chose"
+                ]
+            },
+            {
+                "track_name": "What It Look Like",
+                "track_length": "2:58",
+                "features": []
+            },
+            {
+                "track_name": "Girl on a Train",
+                "track_length": "3:02",
+                "features": []
+            },
+            {
+                "track_name": "I'm Ready (feat. Olivver the Kid)",
+                "track_length": "3:36",
+                "features": [
+                    "Olivver the Kid"
+                ]
+            },
+            {
+                "track_name": "Hit Me Harder (feat. Jaymes Young)",
+                "track_length": "3:52",
+                "features": [
+                    "Jaymes Young"
+                ]
+            },
+            {
+                "track_name": "Give up on Me",
+                "track_length": "4:03",
+                "features": []
+            },
+            {
+                "track_name": "Feel It Loud (feat. Pell)",
+                "track_length": "3:51",
+                "features": [
+                    "Pell"
+                ]
+            },
+            {
+                "track_name": "Silver Lining (feat. PJ & Rome Fortune)",
+                "track_length": "4:25",
+                "features": [
+                    "PJ",
+                    "Rome Fortune"
+                ]
+            }
+        ]
+    },
+    {
+        "album_name": "I Can't Take Me Anywhere",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273a8c1340203e69b96287d2fb8",
+        "tracks": [
+            {
+                "track_name": "Wake Up",
+                "track_length": "3:23",
+                "features": [
+                    "Prelow"
+                ]
+            },
+            {
+                "track_name": "Come a Little Closer",
+                "track_length": "2:46",
+                "features": [
+                    "Prelow"
+                ]
+            },
+            {
+                "track_name": "Like Me More",
+                "track_length": "2:18",
+                "features": [
+                    "Prelow"
+                ]
+            },
+            {
+                "track_name": "R U OK?",
+                "track_length": "3:34",
+                "features": [
+                    "Prelow"
+                ]
+            },
+            {
+                "track_name": "Tell Her Friends",
+                "track_length": "2:51",
+                "features": [
+                    "Prelow"
+                ]
+            },
+            {
+                "track_name": "Who Ruined Your Night",
+                "track_length": "2:06",
+                "features": [
+                    "Prelow"
+                ]
+            },
+            {
+                "track_name": "Way Back",
+                "track_length": "2:24",
+                "features": [
+                    "Prelow"
+                ]
+            },
+            {
+                "track_name": "Talk Is Cheap",
+                "track_length": "2:45",
+                "features": [
+                    "Prelow"
+                ]
+            },
+            {
+                "track_name": "Fuck Me Up",
+                "track_length": "1:43",
+                "features": [
+                    "Prelow"
+                ]
+            }
+        ]
+    },
+    {
+        "album_name": "Free Skizzy Mars",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b27340ed4255754c727d1c1dd08b",
+        "tracks": [
+            {
+                "track_name": "Skiz Again",
+                "track_length": "3:36",
+                "features": []
+            },
+            {
+                "track_name": "Take It Back",
+                "track_length": "1:56",
+                "features": []
+            },
+            {
+                "track_name": "No Advice",
+                "track_length": "2:37",
+                "features": []
+            },
+            {
+                "track_name": "Calabasas",
+                "track_length": "2:40",
+                "features": []
+            },
+            {
+                "track_name": "Sideways",
+                "track_length": "2:58",
+                "features": []
+            },
+            {
+                "track_name": "Trippy",
+                "track_length": "2:41",
+                "features": []
+            },
+            {
+                "track_name": "Bayside (feat. 24kGoldn)",
+                "track_length": "2:41",
+                "features": [
+                    "24kGoldn"
+                ]
+            },
+            {
+                "track_name": "Demons",
+                "track_length": "3:28",
+                "features": []
+            },
+            {
+                "track_name": "All the Time (feat. Yoshi Flower)",
+                "track_length": "3:00",
+                "features": [
+                    "Yoshi Flower"
+                ]
+            },
+            {
+                "track_name": "Waist Deep",
+                "track_length": "2:28",
+                "features": []
+            },
+            {
+                "track_name": "...",
+                "track_length": "2:08",
+                "features": []
+            },
+            {
+                "track_name": "Run It Up",
+                "track_length": "2:48",
+                "features": []
+            },
+            {
+                "track_name": "Afraid (feat. Trevor Daniel)",
+                "track_length": "2:30",
+                "features": [
+                    "Trevor Daniel"
+                ]
+            }
+        ]
+    },
+    {
+        "album_name": "Fun & Problems",
+        "img_url": "https://i.scdn.co/image/ab67616d0000b273313de939f4a7004532260b9d",
+        "tracks": [
+            {
+                "track_name": "Pro Bad Decision Maker",
+                "track_length": "2:39",
+                "features": []
+            },
+            {
+                "track_name": "Wrinkled Sheets",
+                "track_length": "3:40",
+                "features": []
+            },
+            {
+                "track_name": "Rock Bottom",
+                "track_length": "2:21",
+                "features": []
+            },
+            {
+                "track_name": "Fun & Problems - Interlude",
+                "track_length": "0:48",
+                "features": []
+            },
+            {
+                "track_name": "Slow Dance",
+                "track_length": "3:22",
+                "features": []
+            },
+            {
+                "track_name": "Detached",
+                "track_length": "4:05",
+                "features": []
+            },
+            {
+                "track_name": "Ruin My Life",
+                "track_length": "2:35",
+                "features": []
+            },
+            {
+                "track_name": "Chips Fall",
+                "track_length": "3:04",
+                "features": []
+            },
+            {
+                "track_name": "A Ghost - Interlude",
+                "track_length": "0:40",
+                "features": []
+            },
+            {
+                "track_name": "History",
+                "track_length": "2:37",
+                "features": []
+            },
+            {
+                "track_name": "Motel",
+                "track_length": "2:57",
+                "features": []
+            },
+            {
+                "track_name": "Eyes On The Road",
+                "track_length": "4:12",
+                "features": []
+            }
+        ]
+    }
+]
